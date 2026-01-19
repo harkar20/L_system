@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox
 import turtle
 
-
 root = tk.Tk()
 root.title("L-System Fractal Architect")
 root.geometry("1000x800")
